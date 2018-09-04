@@ -7,7 +7,7 @@ Alibaba’s app incorporates Flutter to power parts of their app.
 
 [Learn more.](https://www.alibaba.com/)
 
-![Alibaba screenshot](https://flutter.io/showcase/images/v4_alibaba.png)
+![enter image description here](https://lh3.googleusercontent.com/qVcTH6V8Vf-YEv1wVZ4Y3_lNLYTpmFk78z7duw7vRo1XYUVgKepMDADoRqGni4K_io6jvIrhMZwX)
 
 ## 2. **Google AdWords**
 
@@ -15,7 +15,7 @@ The Google AdWords app helps you keep your ad campaigns running smoothly — no 
 
 Android: [Download here.](https://play.google.com/store/apps/details?id=com.google.android.apps.adwords)
 
-![Google AdWords screenshot](https://flutter.io/showcase/images/v3_adwords.png)
+![enter image description here](https://lh3.googleusercontent.com/njgASkq3yVPYUCz_xQn1oglTju959ZRkLDi8ICgeRyhj5xRr9AxpR9EiRM4_Yn1gGRx0s3N3mLjg)
 
 ## 3. **AppTree**
 
@@ -23,7 +23,7 @@ AppTree provides a low-code enterprise app platform for brands like McDonalds, S
 
 [Learn more.](https://www.apptreerevolution.com/)
 
-![AppTree screenshot](https://flutter.io/showcase/images/v3_apptree.png)
+![enter image description here](https://lh3.googleusercontent.com/-MEYFdSyXvWmz6ZMGwo7Ifzs2ZXvAqWsN-1yHQXMGOFvI6Pg44JPnxwgPFtMbnvKXqZholfgNK3H)
 
 ## 4. **Topline**
 
@@ -31,7 +31,7 @@ Abbey Road Studios’ newest app for quick capture of song ideas.
 
 Android: [Download here.](https://play.google.com/store/apps/details?id=com.abbeyroadandroid)
 
-![Topline screenshot](https://flutter.io/showcase/images/v3_abbey_road_toplineapp_screenshot.png)
+![enter image description here](https://lh3.googleusercontent.com/hc8ypdQH1uzwdoVt5Pfx2rkOnP7cNScDnh_fJeRE7lW6ktoLUIGmXQet8CuKNcGQvclTXMD999x2)
 
 ## 5. **Birch Finance** 
 
@@ -41,7 +41,7 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=com.birc
 
 [Learn more.](https://birchfinance.com/)
 
-![Birch Finance screenshot](https://flutter.io/showcase/images/v3_birch.png)
+![enter image description here](https://lh3.googleusercontent.com/kMR27hOGzNqbFzl0P2QNkhs8GlZTrcozaLZoFAU-7rk_H1jfcrJN_hA1tzt6XIVaO48FUaLYlzPw)
 
 ## 6. **Reflectly**
 
@@ -53,13 +53,13 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=com.refl
 
 [Learn more.](http://reflect.ly/)
 
-![Reflectly screenshot](https://flutter.io/showcase/images/reflectly.png)
+![enter image description here](https://lh3.googleusercontent.com/ZPf400mGbcrSRbq9M-3hGJqe5_t6_b_iPXZozhJzYr0rNs09xNMl5Yb8xaA82K1btCZ-woR60_yk)
 
 ## 7. **Google Greentea**
 
 An internal customer management app used widely by Google sales that provides rich visualizations for tracking sales targets.
 
-![Google Greentea screenshot](https://flutter.io/showcase/images/v3_greentea.png)
+![enter image description here](https://lh3.googleusercontent.com/dSp3ReSE_rDq9jKhuyg0oBwcTtxa2887_eNhCVGondxPwoT59dvMW_g-6eEXI2wlSZfMajKosViC)
 
 ## 8. **Hamilton Musical**
 
@@ -71,7 +71,7 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=com.hami
 
 [Learn more.](https://blog.goposse.com/rise-up-the-story-of-how-the-hamilton-app-uses-flutter-to-do-more-for-its-fans-1d9cd76f95f1)
 
-![Hamilton Musical screenshot](https://flutter.io/showcase/images/v3_hamliton.png)
+![enter image description here](https://lh3.googleusercontent.com/xtJ0WpgkPFFMNIraNaiSpLIKkDCCK4_KpL0dTfo10qIfzn-o6wjXDCrHxwggR1PLwIaMeedVVIP9)
 
 ## 9. **Hookle**
 
@@ -83,7 +83,7 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=net.hook
 
 [Learn more.](https://www.hookle.net/)
 
-![Hookle screenshot](https://flutter.io/showcase/images/v3_hookle.png)
+![enter image description here](https://lh3.googleusercontent.com/gjhhM3BVHOLMUscuGqkvg_kWNvcOE389K7ElQd7Xhe4V-k4p_5GAzqrv9WRrOozYxt2ZJzP783rX)
 
 ## 10. **OfflinePal**
 
@@ -91,7 +91,7 @@ OfflinePal collects activities in one place, from concerts and theaters, to moun
 
 [Learn more.](https://www.youtube.com/watch?v=0guDC2S6EeY)
 
-![OfflinePal screenshot](https://flutter.io/showcase/images/v3_offlinepal.png)
+![enter image description here](https://lh3.googleusercontent.com/mNowNR_cg_GoIHeFutjcVqd8bJaHPdQC8ip9QSqL-sNznDxoWPwuhpN5ZmLyaIEjG6hrrErceRcm)
 
 ## 11.  **VivaBem UOL**
 
@@ -103,7 +103,7 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=br.com.u
 
 [Learn more.](https://vivabem.uol.com.br/equilibrio/)
 
-![VivaBem UOL screenshot](https://flutter.io/showcase/images/v3_vivabem.png)
+![enter image description here](https://lh3.googleusercontent.com/VV-cc2ktksM3BMsdjMXCyrv3WZXjhBhdJ6llJ3mNbT-RoUqTGBmIUe4fS-Nwd-T4_5wgVKhvt4W8)
 
 ## 12. **BetaBubs**
 
@@ -113,7 +113,7 @@ iOS: [Download here.](https://itunes.apple.com/us/app/betabubs-play-emojis/id136
 
 Android: [Download here.](https://play.google.com/store/apps/details?id=com.betabubs.playemojis)
 
-![BetaBubs screenshot](https://flutter.io/showcase/images/v3_betabubs.png)
+![enter image description here](https://lh3.googleusercontent.com/JjS7lRhfIGP2IOesdmKjQy8cHGnw8fHXPgjo9W-2QCyOWUMBFtM-MZKYpjVSKh9joiMpQLp2GYyn)
 
 ## 13. **Coach Yourself**
 
@@ -123,4 +123,4 @@ iOS: [Download here.](https://itunes.apple.com/us/app/coach-yourself/id137275998
 
 Android: [Download here.](https://play.google.com/store/apps/details?id=eu.coach_yourself.app)
 
-![Coach Yourself screenshot](https://flutter.io/showcase/images/v3_CoachYourself.png)
+![enter image description here](https://lh3.googleusercontent.com/-3Me3fSTkaXrjXPUVozNq1dfxu_yu6IKXf7COxEgdfw8K5HBSupZq4P84V8qjlhO9d_QFCC54MK8)
