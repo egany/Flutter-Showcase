@@ -1,7 +1,7 @@
 ## Flutter Showcase
 Flutter is used by Google and developers and organizations around the world to deliver beautiful native apps on iOS and Android. Here is a small selection of apps made with Flutter.
 
-1. **Alibaba**
+## 1. **Alibaba**
 
 Alibaba’s app incorporates Flutter to power parts of their app.
 
@@ -9,7 +9,7 @@ Alibaba’s app incorporates Flutter to power parts of their app.
 
 ![Alibaba screenshot](https://flutter.io/showcase/images/v4_alibaba.png)
 
-2. **Google AdWords**
+## 2. **Google AdWords**
 
 The Google AdWords app helps you keep your ad campaigns running smoothly — no matter where your business takes you.
 
@@ -17,7 +17,7 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=com.goog
 
 ![Google AdWords screenshot](https://flutter.io/showcase/images/v3_adwords.png)
 
-3. **AppTree**
+## 3. **AppTree**
 
 AppTree provides a low-code enterprise app platform for brands like McDonalds, Stanford, Wayfair & Fermilab.
 
@@ -25,7 +25,7 @@ AppTree provides a low-code enterprise app platform for brands like McDonalds, S
 
 ![AppTree screenshot](https://flutter.io/showcase/images/v3_apptree.png)
 
-4. **Topline**
+## 4. **Topline**
 
 Abbey Road Studios’ newest app for quick capture of song ideas.
 
@@ -33,7 +33,7 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=com.abbe
 
 ![Topline screenshot](https://flutter.io/showcase/images/v3_abbey_road_toplineapp_screenshot.png)
 
-5. **Birch Finance** 
+## 5. **Birch Finance** 
 
 Credit card rewards app to manage and optimize your existing cards.
 
@@ -43,7 +43,7 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=com.birc
 
 ![Birch Finance screenshot](https://flutter.io/showcase/images/v3_birch.png)
 
-6. **Reflectly**
+## 6. **Reflectly**
 
 A beautiful journal and mindfulness app driven by artificial intelligence.
 
@@ -55,13 +55,13 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=com.refl
 
 ![Reflectly screenshot](https://flutter.io/showcase/images/reflectly.png)
 
-7. **Google Greentea**
+## 7. **Google Greentea**
 
 An internal customer management app used widely by Google sales that provides rich visualizations for tracking sales targets.
 
 ![Google Greentea screenshot](https://flutter.io/showcase/images/v3_greentea.png)
 
-8. **Hamilton Musical**
+## 8. **Hamilton Musical**
 
 Official app of the hit Broadway musical, Hamilton. Includes daily lotteries, exclusive news and videos, a trivia game, merchandise store, and more.
 
@@ -73,7 +73,7 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=com.hami
 
 ![Hamilton Musical screenshot](https://flutter.io/showcase/images/v3_hamliton.png)
 
-9. **Hookle**
+## 9. **Hookle**
 
 Tool to share posts, monitor social activity, and manage multiple social media accounts in one place.
 
@@ -85,7 +85,7 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=net.hook
 
 ![Hookle screenshot](https://flutter.io/showcase/images/v3_hookle.png)
 
-10. **OfflinePal**
+## 10. **OfflinePal**
 
 OfflinePal collects activities in one place, from concerts and theaters, to mountain hiking and tourist attractions.
 
@@ -93,7 +93,7 @@ OfflinePal collects activities in one place, from concerts and theaters, to moun
 
 ![OfflinePal screenshot](https://flutter.io/showcase/images/v3_offlinepal.png)
 
-11.  **VivaBem UOL**
+## 11.  **VivaBem UOL**
 
 Guided meditation videos. UOL also provides news and information about health and well-being from specialists.
 
@@ -105,7 +105,7 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=br.com.u
 
 ![VivaBem UOL screenshot](https://flutter.io/showcase/images/v3_vivabem.png)
 
-12. **BetaBubs**
+## 12. **BetaBubs**
 
 Emoji-only chat app for children with parental controls.
 
@@ -115,7 +115,7 @@ Android: [Download here.](https://play.google.com/store/apps/details?id=com.beta
 
 ![BetaBubs screenshot](https://flutter.io/showcase/images/v3_betabubs.png)
 
-13. **Coach Yourself**
+## 13. **Coach Yourself**
 
 A meditation app for the German-language market with coach Ramin Raygan.
 
